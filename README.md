@@ -119,7 +119,7 @@ O circuito conecta:
 ## 🚀 Como Usar o Projeto
 
 1. Abra o projeto no Wokwi através do link disponibilizado.
-2. Carregue o código fonte principal `SYNAPSE_IoT_Hub.ino`.
+2. Carregue o código fonte principal `Codigo.ino`.
 3. Observe o LCD exibindo os dados em tempo real.
 4. Experimente variar o potenciômetro e o joystick para ver as atualizações instantâneas no display e o efeito no LED RGB.
 5. Ajuste as variáveis ambientais para visualizar as ações do buzzer e do servo motor.
