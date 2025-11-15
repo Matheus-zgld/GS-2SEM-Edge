@@ -102,7 +102,7 @@ O circuito conecta:
 - Servo Motor ao GPIO13
 - Display LCD I2C nos GPIO21 (SDA) e GPIO22 (SCL)
 
-
+![Circuito SYNAPSE](ImagemCircuito.png)
 
 ---
 
@@ -135,7 +135,7 @@ O SYNAPSE IoT Hub oferece uma solução prática para monitoramento de bem-estar
 
 ## 📄 Arquivos Fonte
 
-- `SYNAPSE_IoT_Hub.ino` - Código fonte principal devidamente comentado.
+- `Codigo.ino` - Código fonte principal devidamente comentado.
 
 ---
 
